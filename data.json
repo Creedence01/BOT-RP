@@ -1,0 +1,72 @@
+{
+    "584826321469702149": {
+        "country": "Finl\u00e2ndia",
+        "gdp": 101000000000.0,
+        "military_balance": 20200000000.0,
+        "investment_balance": 70789598990.0,
+        "military_percentage": 0.2,
+        "investment_limit": 5,
+        "purchase_limit": 5,
+        "purchases": [],
+        "investments": {
+            "SUS": 100000.0
+        },
+        "stock": {},
+        "idh": 0.507,
+        "last_idh_change": "2024-06-14T22:25:26.910077",
+        "soldiers": 100000,
+        "last_recruit": 0,
+        "tax_percentage": 0.0,
+        "last_tax_change": "2024-06-14T21:52:18.554211"
+    },
+    "652307028978434078": {
+        "country": "Ar\u00e1bia",
+        "gdp": 100000000000,
+        "military_balance": 19905000000,
+        "investment_balance": 29499967900.0,
+        "military_percentage": 0.2,
+        "investment_limit": 5,
+        "purchase_limit": 5,
+        "purchases": [
+            "2024-06-14T22:17:04.229763",
+            "2024-06-14T22:18:09.072836",
+            "2024-06-14T22:18:37.810155"
+        ],
+        "investments": {
+            "SUS": 10500000100.0,
+            "ESPA": 1000.0,
+            "EDUC": 1000.0,
+            "TECNO": 10000.0,
+            "SEGP": 10000.0,
+            "INFRA": 10000.0,
+            "CIEN": 10500000000.0,
+            "INDURCIO": 7500000000.0,
+            "ESPOR": 15000000000.0,
+            "CULRA": 7000000000.0
+        },
+        "stock": {
+            "AC": 5,
+            "DR": 10
+        },
+        "idh": 0.505,
+        "last_idh_change": "2024-06-14T22:24:12.136211",
+        "soldiers": 100000,
+        "last_recruit": 0,
+        "tax_percentage": 100.0,
+        "last_tax_change": "2024-06-14T22:29:22.081943",
+        "pending_purchases": [
+            {
+                "vehicle": "AC",
+                "quantity": 5,
+                "total_cost": 25000000,
+                "delivery_time": "2024-06-14T22:18:09.072836"
+            },
+            {
+                "vehicle": "DR",
+                "quantity": 10,
+                "total_cost": 70000000,
+                "delivery_time": "2024-06-14T22:18:37.810155"
+            }
+        ]
+    }
+}
